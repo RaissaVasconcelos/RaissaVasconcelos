@@ -1,9 +1,9 @@
 
-## Oi eu sou a Raissa!
+# Oi eu sou a Raissa!
 
-# Gosto de esportes, da natureza, de culinária, e de desafios! 
+### Gosto de esportes, da natureza, de culinária, e de desafios! 
 
-# Tecnologias que estou estudando!
+### Tecnologias que estou estudando!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
