@@ -2,7 +2,7 @@
 # Oi, eu sou a Raissa!
 
 ### 🪐 Estou estudando desenvolvimento de Software na Trybe
-### Gosto de esportes, da natureza, de culinária, e de desafios! 
+### 🚀 Gosto de esportes, da natureza, de culinária, e de desafios! 
 
 ### Tecnologias que estou estudando!
 
