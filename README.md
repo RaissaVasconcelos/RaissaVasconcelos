@@ -1,8 +1,7 @@
-# Raissa
 
 ## Oi eu sou a Raissa!
 
-# Gosto de 
+# Gosto de esportes, da natureza, de culinária, e de desafios! 
 
 ## Tecnologias que estou estudando!
 
