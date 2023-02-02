@@ -7,10 +7,6 @@
 
 <div>
   <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    alt="JavaScript"
-  >
-  <img
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React"
   >
@@ -41,10 +37,6 @@
   <img
     src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
     alt="Json Web Tokens"
-  />
-  <img
-    src="https://img.shields.io/badge/TDD-20232A?style=for-the-badge&logo=TDD&logoColor=white"
-    alt="TDD"
   />
   <img
     src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
