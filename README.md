@@ -3,20 +3,20 @@
 
 ## 🍀 Um pouco sobre mim
 
-### Sou uma garota amante de tecnologia, esportes, natureza, animes, e principalmente de desafios! 
+#### Sou uma garota amante de tecnologia, esportes, natureza, animes, e principalmente de desafios! 
 
 <br />
 
-## Contatos 
+## 📱 Contatos 
   
-<div align="center"> 
+<div align="left"> 
   <a href = "mailto:rai.celos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raissavasconcels" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <br />
 
-## Tecnologias
+## 🚀 Tecnologias
 
 <div style="display: inline_block">
   <img
@@ -63,7 +63,7 @@
 
 <br />
 
-## Estudando 
+## 📚 Estudando 
 
  <div style="display: inline_block">
   <img
@@ -82,7 +82,7 @@
   
 <br />
   
-  ## GitHub
+## GitHub
 
 <div align="center">
  <a href="https://www.linkedin.com/in/RaissaVasconcelos/">
