@@ -1,11 +1,24 @@
 
 # Oi, eu sou a Raissa!
 
-### 🚀 Um pouco sobre mim, sou uma garota amante de esportes, da natureza, de animes, e de desafios! 
+## 🍀 Um pouco sobre mim
 
-### Tecnologias
+### Sou uma garota amante de tecnologia, esportes, natureza, animes, e principalmente de desafios! 
 
-<div>
+<br />
+
+## Contatos 
+  
+<div align="center"> 
+  <a href = "mailto:rai.celos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raissavasconcels" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br />
+
+## Tecnologias
+
+<div style="display: inline_block">
   <img
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React"
@@ -50,7 +63,7 @@
 
 <br />
 
-### Estudando 
+## Estudando 
 
  <div style="display: inline_block">
   <img
@@ -77,12 +90,5 @@
   <img height="180em" alt="Raissa Github Status" src="https://github-readme-stats.vercel.app/api?username=RaissaVasconcelos&show_icons=true&theme=tokyonight"/>
 </div>
  
-  <br />
-  
-<div align="center"> 
-  <a href = "mailto:rai.celos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raissavasconcels" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-  
+ <br />  
   
