@@ -15,20 +15,15 @@
   <img align="center" alt="Rai-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rai-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
-  ## GitHub
+  
+  # GitHub
 
 <div align="center">
- <a href="[https://github.com/RaissaVasconcelos/]">
-  <img height="180em" alt="Raissa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=raissa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" alt="Raissa Github Status" src="https://github-readme-stats.vercel.app/api?username=raissa&show_icons=true&theme=tokyonight"/>
+  <a href="https://github.com/RaissaVasconcelos">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaissaVasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaVasconcelos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- 
-  <!-- <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> --> 
- 
- ![Profile Views](https://gpvc.arturio.dev/RaissaVasconcelos)
-  
-  ##
  
 <div> 
   <a href = "mailto:rai.celos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
