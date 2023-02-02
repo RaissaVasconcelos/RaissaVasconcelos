@@ -1,6 +1,8 @@
 
 # Oi, eu sou a Raissa!
 
+<br />
+
 ## 🍀 Um pouco sobre mim
 
 ### Sou uma garota amante de tecnologia, esportes, natureza, animes, e principalmente de desafios! 
