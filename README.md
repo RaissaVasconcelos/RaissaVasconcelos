@@ -5,8 +5,6 @@
 
 ### Sou uma garota amante de tecnologia, esportes, natureza, animes, e principalmente de desafios! 
 
-<br />
-
 ## 📱 Contatos 
   
 <div align="left"> 
