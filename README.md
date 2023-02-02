@@ -20,11 +20,12 @@
   ## GitHub
 
 <div align="center">
-  <a href="https://github.com/RaissaVasconcelos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaissaVasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaVasconcelos&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://www.linkedin.com/in/RaissaVasconcelos/">
+  <img height="180em" alt="Raissa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaissaVasconcelos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" alt="Raissa Github Status" src="https://github-readme-stats.vercel.app/api?username=RaissaVasconcelos&show_icons=true&theme=tokyonight"/>
 </div>
  
+  <br/>
   <br/>
   
 <div> 
