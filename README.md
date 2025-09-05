@@ -45,7 +45,7 @@ Sou programadora a um ano, meus hobbies consistem basicamente em consumir cultur
     alt="NestJS"
   />
   <img
-    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=blac"
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
     alt="LeetCode"
   />
  
