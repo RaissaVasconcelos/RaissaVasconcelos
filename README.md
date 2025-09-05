@@ -1,14 +1,11 @@
 
-# Oi, eu sou a Raissa!
+### 🖖 Saudações
 
-
-## 🍀 Um pouco sobre mim
-
-### Sou uma garota amante de tecnologia, esportes, natureza, animes e principalmente de desafios! 
+#### Sou programadora a um ano, meus hobbies consistem basicamente em animes e treinos de jiu-jitsu. Meu maior sonho é ser excelente técnicamente e impactar vidas!
 
 <br />
 
-## 📱 Contatos 
+#### 📱 Contatos 
   
 <div align="left"> 
   <a href = "mailto:rai.celos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -17,7 +14,7 @@
 
 <br />
 
-## 🚀 Tecnologias
+#### 🚀 Tecnologias
 
 <div style="display: inline_block">
   <img
@@ -32,10 +29,7 @@
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
   />
-  <img
-    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-    alt="Express.js"
-  />
+ 
   <img
     src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
     alt="Docker"
@@ -44,27 +38,11 @@
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
   />
-  <img
-    src="https://img.shields.io/badge/Sequelize-1572b6?style=for-the-badge&logo=sequelize&logoColor=white"
-    alt="Sequelize"
-  />
-  <img
-    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
-    alt="Json Web Tokens"
-  />
-  <img
-    src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
-    alt="Mocha"
-  />
-  <img
-    src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
-    alt="Chai"
-  />
 </div>
 
 <br />
 
-## 📚 Estudando 
+#### 📚 Estudando 
 
  <div style="display: inline_block">
   <img
@@ -72,13 +50,10 @@
     alt="NestJS"
   />
   <img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-    alt="MongoDB"
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=blac"
+    alt="LeetCode"
   />
-  <img
-    src="https://img.shields.io/badge/Clean_Architecture-20232A?style=for-the-badge&logoColor=61DAFB"
-    alt="CleanArquitecture"
-  />
+ 
  </div>
   
 <br />
