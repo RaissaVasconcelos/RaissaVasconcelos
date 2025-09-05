@@ -1,7 +1,7 @@
 
 ### 🖖 Saudações
 
-#### Sou programadora a um ano, meus hobbies consistem basicamente em animes e treinos de jiu-jitsu. Meu maior sonho é ser excelente técnicamente e impactar vidas!
+Sou programadora a um ano, meus hobbies consistem basicamente em animes e treinos de jiu-jitsu. Meu maior sonho é ser excelente técnicamente e impactar vidas!
 
 <br />
 
