@@ -1,9 +1,7 @@
 
 ### 🖖 Saudações
 
-Sou programadora a um ano, meus hobbies consistem basicamente em animes e treinos de jiu-jitsu. Meu maior sonho é ser excelente técnicamente e impactar vidas!
-
-<br />
+Sou programadora a um ano, meus hobbies consistem basicamente em consumir cultura japonesa e treinos de jiu-jitsu. Meu maior sonho é ser excelente técnicamente e impactar vidas!
 
 #### 📱 Contatos 
   
@@ -11,8 +9,6 @@ Sou programadora a um ano, meus hobbies consistem basicamente em animes e treino
   <a href = "mailto:rai.celos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raissavasconcels" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br />
 
 #### 🚀 Tecnologias
 
@@ -40,7 +36,6 @@ Sou programadora a um ano, meus hobbies consistem basicamente em animes e treino
   />
 </div>
 
-<br />
 
 #### 📚 Estudando 
 
@@ -55,9 +50,5 @@ Sou programadora a um ano, meus hobbies consistem basicamente em animes e treino
   />
  
  </div>
-  
-<br />
-  
-
- <br />  
+ 
   
