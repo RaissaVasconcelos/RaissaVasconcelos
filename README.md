@@ -2,11 +2,11 @@
 <img
     src="https://chatgpt.com/s/m_6a3323be0e808191befbba262eaa3060"
     alt="thumb"
-  >
+/>
 
 ### 🖖 Saudações, eu sou Raissa Vasconcelos
 
-# Full Stack Developer | Itajaí, Brazil
+### Full Stack Developer | Itajaí, Brazil
 
 #### 📱 Contatos
 
