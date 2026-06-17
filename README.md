@@ -3,51 +3,48 @@
     alt="thumb"
 />
 
-### 🖖 Saudações, eu sou Raissa Vasconcelos
+## Raissa Vasconcelos
 
-### Full Stack Developer | Itajaí, Brazil
+### Full Stack Developer
 
-#### 📱 Contatos
+**Node.js • TypeScript • NestJS • C# • React**
 
-<div align="left">
-  <a href="mailto:rai.celos20@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/raissavasconcels" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+📍 Itajaí, SC - Brazil
 
-#### 🖥️ Tecnologias
+Software developer experienced in building web applications and REST APIs using TypeScript, React, Node.js and NestJS. Currently expanding expertise in C# and ASP.NET, with a strong interest in backend development, software architecture and scalable systems.
 
-<div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,mysql,docker,git,cs" />
-</div>
+---
 
-#### 💼 Experiência
+## 📧 Contact
 
-**Front-End Developer | ClickCannabis**
+* Email: [rai.celos20@gmail.com](mailto:rai.celos20@gmail.com)
+* LinkedIn: https://linkedin.com/in/raissavasconcels
 
-📅 Abril/2024 - Abril/2026 (Remoto)
+---
 
-* Desenvolvimento e manutenção de interfaces web utilizando React, JavaScript e TypeScript.
-* Integração com APIs REST e implementação de melhorias de usabilidade e responsividade.
-* Correção de bugs e apoio em ajustes de serviços backend utilizando Node.js.
+## 🛠️ Tech Stack
 
-#### 📚 Atualmente Estudando
+TypeScript • JavaScript • React • Node.js • NestJS • MySQL • Docker • Git • C# • ASP.NET • REST APIs
 
-<div style="display: inline_block">
-  <img
-    src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"
-    alt="C#"
-  />
-  <img
-    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
-    alt=".NET"
-  />
-  <img
-    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode"
-  />
-</div>
+---
+
+## 💼 Experience
+
+### Front-End Developer | ClickCannabis
+
+📅 Apr/2024 - Apr/2026 (Remote)
+
+* Development and maintenance of web applications using React and TypeScript.
+* Integration with REST APIs and implementation of usability improvements.
+* Bug fixing and continuous maintenance of application features.
+* Support in backend services and business rules using Node.js.
+
+---
+
+## 📚 Currently Studying
+
+* C#
+* ASP.NET
+* Data Structures and Algorithms (LeetCode)
+
 
