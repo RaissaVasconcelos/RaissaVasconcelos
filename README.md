@@ -1,6 +1,5 @@
-
 <img
-    src="https://chatgpt.com/s/m_6a3323be0e808191befbba262eaa3060"
+    src="banner.png"
     alt="thumb"
 />
 
