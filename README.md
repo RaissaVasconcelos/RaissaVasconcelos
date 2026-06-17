@@ -24,15 +24,6 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,mysql,docker,git,cs" />
 </div>
 
-* TypeScript
-* React
-* Node.js
-* NestJS
-* MySQL
-* Docker
-* Git
-* Atualmente estudando C# e .NET
-
 #### 💼 Experiência
 
 **Front-End Developer | ClickCannabis**
